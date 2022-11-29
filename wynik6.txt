@@ -1,0 +1,16 @@
+ZAD 1:
+T4 905
+
+ZAD 2:
+22
+
+ZAD 3:
+2016-02-01: min T4 24, max T2 48
+2018-08-01: min T1 3, max T5 125
+
+ZAD 5:
+a)
+Stan pod koniec: 546084
+2018-11-24: 552575 (max dzień)
+b)
+6399
